@@ -1,12 +1,26 @@
 {
   "name": "sih_main_component_working",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Certificate verification demo with OCR, fraud detection, encryption, and API validation",
+  "main": "demos/mainDemo.js",
+  "type": "module",
   "scripts": {
+    "start": "node demos/mainDemo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["OCR", "fraud-detection", "certificate", "encryption", "API"],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BellapuDharani/sih_main_component_working.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BellapuDharani/sih_main_component_working/issues"
+  },
+  "homepage": "https://github.com/BellapuDharani/sih_main_component_working#readme",
+  "dependencies": {
+    "sharp": "^0.34.4",
+    "tesseract.js": "^6.0.1"
+  }
 }
