@@ -43,5 +43,3 @@ Internet connection
 Smart India Hackathon (Demo Project)
 
 This version is short, simple, and easy for jury ✅
-
-Do you want me to also make a step-by-step "How Jury Can Test" section (like copy-paste commands)?
