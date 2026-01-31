@@ -37,9 +37,3 @@ Expected output:
 Node.js 18+
 
 Internet connection
-
-👩‍💻 Built For
-
-Smart India Hackathon (Demo Project)
-
-This version is short, simple, and easy for jury ✅
